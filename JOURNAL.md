@@ -16,7 +16,7 @@
 
 1. [2026-10-12 – I started modeling the structure of my box, including rails for a sliding compartment similar to a drawer. I also mapped out the structure for 2 of the included board games (conveniently enough, this](#2026-10-12-i-started-modeling-the-structure-of-my-box-includ)
 2. [2026-10-12 – added the chess tiles and finished the sliding drawer](#2026-10-12-added-the-chess-tiles-and-finished-the-sliding-dr)
-3. [2026-10-13 – trying to reconfigure the chessboard to become one part](#2026-10-13-trying-to-reconfigure-the-chessboard-to-become-on)
+3. [2026-10-13 – trying to reconfigure the chessboard to become one part (also for some reason lapse broke in the middle of my CADing so i've journaled the remaining hours](#2026-10-13-trying-to-reconfigure-the-chessboard-to-become-on)
 4. [2026-10-13 – again, continuing to try to merge the chessboard tiles together into one piece, got it to be 2 pieces, realise that theres an inherent non-manifold body, so that's the final one. I also made one of th](#2026-10-13-again-continuing-to-try-to-merge-the-chessboard-t)
 
 ## Design
@@ -39,11 +39,11 @@ added the chess tiles and finished the sliding drawer
 
 [Timelapse](https://lookout.hackclub.com/api/media/ea25f974-8d52-4279-9fc4-7ac73de3d641/video.mp4)
 
-### 2026-10-13 – trying to reconfigure the chessboard to become one part
+### 2026-10-13 – trying to reconfigure the chessboard to become one part (also for some reason lapse broke in the middle of my CADing so i've journaled the remaining hours
 
 **0.75h**
 
-trying to reconfigure the chessboard to become one part
+trying to reconfigure the chessboard to become one part (also for some reason lapse broke in the middle of my CADing so i've journaled the remaining hours
 
 [Timelapse](https://lookout.hackclub.com/api/media/c7fbfb66-c9a3-4bff-93d5-1cf34db2f5f5/video.mp4)
 

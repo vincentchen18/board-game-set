@@ -51,7 +51,7 @@ trying to reconfigure the chessboard to become one part (also for some reason la
 
 **1.63h**
 
-again, continuing to try to merge the chessboard tiles together into one piece, got it to be 2 pieces, realise that theres an inherent non-manifold body, so that's the final one. I also made one of the first chess pieces, a King. it looks pretty decent as i did get inspo and tried to shape it similarly to a staunton piece, but i'll probably do the rest on my own.
+again, continuing to try to merge the chessboard tiles together into one piece, got it to be 2 pieces, realise that theres an inherent non-manifold body, so that's the final one. I also made one of the first chess pieces, a King. it looks pretty decent as i did get inspo and tried to shape it similarly to a staunton piece, but i'll probably do the rest on my own without inspiration
 
 ![img_1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iPQiPBB3YAqPu4RFe838ZhRAebDnRFaL/79fb5202f61286dce9a2b7b5d9462aa1fc327e8529f73ca66d025de9a4d8186c.png)
 

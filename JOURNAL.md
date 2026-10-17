@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 10.43h | 9 |
+| Week 2 | Tier 1 | 11.62h | 9 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 6. [2026-10-14 – i maked a rook for the chess board,](#2026-10-14-i-maked-a-rook-for-the-chess-board)
 7. [2026-10-15 – i made a bishop, had to tune the hat + the bulb a lot because it kept looking weird. lmk what you guys think. knights and pawns up next.](#2026-10-15-i-made-a-bishop-had-to-tune-the-hat-the-bulb-a-lo)
 8. [2026-10-15 – i maked a pawn and started drafting out the knight (its a bit of an irregular shape so can't be made purely using extrusions or revolves so im trying to figure something out.](#2026-10-15-i-maked-a-pawn-and-started-drafting-out-the-knigh)
-9. [2026-10-16 – Work session](#2026-10-16-work-session)
+9. [2026-10-16 – making the knight, took a few iterations, but still looks a bit chopped. I tried to do a cross face intersection, but that failed, made the knight too square and fat, and ended up with a loft up to an](#2026-10-16-making-the-knight-took-a-few-iterations-but-still)
 
 ## Design
 
@@ -113,8 +113,14 @@ i maked a pawn and started drafting out the knight (its a bit of an irregular sh
 
 [Timelapse](https://lookout.hackclub.com/api/media/a7ed1e81-efca-44d9-bc45-9c5e9eab753e/video.mp4)
 
-### 2026-10-16 – Work session
+### 2026-10-16 – making the knight, took a few iterations, but still looks a bit chopped. I tried to do a cross face intersection, but that failed, made the knight too square and fat, and ended up with a loft up to an
 
-**0.43h**
+**1.62h**
+
+making the knight, took a few iterations, but still looks a bit chopped. I tried to do a cross face intersection, but that failed, made the knight too square and fat, and ended up with a loft up to an ellipse + an extrusion for the knight with a hole for the eye. took an unreasonable amount of time and i will probably still revise it (looks like an elephant );
+
+![Screenshot from 2026-10-17 13-49-55](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iPQiPBB3YAqPu4RFe838ZhRAebDnRFaL/aef9c6387e785ba73c70d1e4d9927f1b03f7ab9138f24b6a4a6f9fa60ddb7d01.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/5f07ef46-3fae-4d4c-aa84-85ba54b69daa/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/ce58d31c-63fb-4038-89f0-c4ba782de269/video.mp4)

@@ -20,7 +20,7 @@ The design features a sliding tray, along with 34 standard chess pieces (King, 2
 
 The checkers pieces also feature a regular side and a king side for promotion.
 
-Uses squares of slight elevational variation as 3D printing the board can only use one colour, so black/white squares can be distinguished by altitude.
+Uses squares of slight elevational variation as 3D printing the board can only use one colour, so black/white squares can be distinguished by altitude. My chess set also features the world's ugliest knight, which due to time constraints I couldn't remake in time.
 
 ## Hardware
 

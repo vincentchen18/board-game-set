@@ -118,7 +118,7 @@ i maked a pawn and started drafting out the knight (its a bit of an irregular sh
 
 **1.62h**
 
-making the knight, took a few iterations, but still looks a bit chopped. I tried to do a cross face intersection, but that failed, made the knight too square and fat, and ended up with a loft up to an ellipse + an extrusion for the knight with a hole for the eye. took an unreasonable amount of time and i will probably still revise it (looks like an elephant );
+making the knight, took a few iterations, but still looks a bit chopped. I tried to do a cross face intersection, but that failed, made the knight too square and fat, and ended up with a loft up to an ellipse + an extrusion for the knight with a hole for the eye. took an unreasonable amount of time and looks like an elephant );
 
 ![Screenshot from 2026-10-17 13-49-55](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iPQiPBB3YAqPu4RFe838ZhRAebDnRFaL/aef9c6387e785ba73c70d1e4d9927f1b03f7ab9138f24b6a4a6f9fa60ddb7d01.png)
 

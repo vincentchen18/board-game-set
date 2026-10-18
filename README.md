@@ -26,6 +26,8 @@ Uses squares of slight elevational variation as 3D printing the board can only u
 
 You can find all the files in the [3D Printing Files](3D%20Printing%20Files/) directory, and more specifically for printers, in the [3D Printing Files/STL files](3D%20Printing%20Files/STL%20files) directory. All the files should be printable within a 220mm x 220mm x 220mm space. Please let me know if it can't or if formatting needs to be adjusted.
 
+Note that the pieces need to be printed twice (preferably in different colours)
+
 ![pieces picture](Journal/img_8.png)
 
 Furthermore, you can also admire my example assembly, which is in [here](example%20assembly.step)

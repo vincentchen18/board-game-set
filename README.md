@@ -28,6 +28,8 @@ You can find all the files in the [3D Printing Files](3D%20Printing%20Files/) di
 
 ![pieces picture](Journal/img_8.png)
 
+Furthermore, you can also admire my example assembly, which is in [here](example%20assembly.step)
+
 ## AI Usage
 
 AI was not used in any way for this project.

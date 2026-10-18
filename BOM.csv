@@ -1,2 +1,2 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+Item,Purpose,Vendor,Qty,Unit Price (USD),Total (USD),Link,Notes
+3D printing (PLA) - full set,"Box quarters (x4), tray quarters (x4), chess pieces (x2 sets), checkers pieces",Hack Club Printing Legion,1,30.89,30.89,https://github.com/vincentchen18/board-game-set/tree/main/3D%20Printing%20Files/STL%20files,Printed by a Printing Legion member

@@ -23,7 +23,7 @@
 7. [2026-10-15 – i made a bishop, had to tune the hat + the bulb a lot because it kept looking weird. lmk what you guys think. knights and pawns up next.](#2026-10-15-i-made-a-bishop-had-to-tune-the-hat-the-bulb-a-lo)
 8. [2026-10-15 – i maked a pawn and started drafting out the knight (its a bit of an irregular shape so can't be made purely using extrusions or revolves so im trying to figure something out.](#2026-10-15-i-maked-a-pawn-and-started-drafting-out-the-knigh)
 9. [2026-10-16 – making the knight, took a few iterations, but still looks a bit chopped. I tried to do a cross face intersection, but that failed, made the knight too square and fat, and ended up with a loft up to an](#2026-10-16-making-the-knight-took-a-few-iterations-but-still)
-10. [2026-10-17 – Work session](#2026-10-17-work-session)
+10. [2026-10-17 – making checkers pieces](#2026-10-17-making-checkers-pieces)
 
 ## Design
 
@@ -126,8 +126,10 @@ making the knight, took a few iterations, but still looks a bit chopped. I tried
 
 [Timelapse](https://lookout.hackclub.com/api/media/ce58d31c-63fb-4038-89f0-c4ba782de269/video.mp4)
 
-### 2026-10-17 – Work session
+### 2026-10-17 – making checkers pieces
 
 **1.35h**
+
+making checkers pieces
 
 [Timelapse](https://lookout.hackclub.com/api/media/1bc04bf2-821d-49ba-8379-e87859eac74f/video.mp4)
